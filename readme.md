@@ -7,7 +7,7 @@ This application uses fine-tuned Large Language Models to generate detailed radi
  <img src="https://i.ytimg.com/vi/xtSYHhKyc9g/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAyedofLJSiRBJJGHdp40w7ziavfQ" alt="Watch the video" width="240" height="180" border="10" />
 </a>
 
-<video src="https://www.youtube.com/embed/xtSYHhKyc9g?si=nMN_Ug-8PItGYT6F" width="320" height="240" controls></video>
+<video src="https://youtu.be/xtSYHhKyc9g?si=zSFWvX7K2nEz_UR9" width="320" height="240" controls></video>
 
 
 ## Features
