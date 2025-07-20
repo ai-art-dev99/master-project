@@ -2,7 +2,8 @@
 
 ## Overview
 This application uses fine-tuned Large Language Models to generate detailed radiology reports from chest X-ray images. It provides a user-friendly interface for healthcare professionals to upload X-ray images and receive professionally formatted radiology reports with findings and impressions.
-[![Watch the video](https://i.ytimg.com/vi/xtSYHhKyc9g/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAyedofLJSiRBJJGHdp40w7ziavfQ)](https://youtu.be/xtSYHhKyc9g)
+
+[![Watch the video]](https://youtu.be/xtSYHhKyc9g)
 
 
 ## Features
